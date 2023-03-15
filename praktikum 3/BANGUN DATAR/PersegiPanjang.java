@@ -1,6 +1,6 @@
 /**
 * File : PersegiPanjang.java 08/03/2023
-* Penulis : Ahmad Alvin Griffin
+* Penulis : Naufal Ariq Dwikurnia
 * Deskripsi : representasi dari objek persegi panjang, turunan kelas poligon
 */
 package org.bangundatar;
