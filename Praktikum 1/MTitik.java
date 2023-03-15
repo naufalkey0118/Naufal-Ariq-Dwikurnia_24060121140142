@@ -1,5 +1,5 @@
 // MTitik.java 22/02/23
-// Penulis : Rizky Akhmad Fahreza
+// Penulis : Naufal Ariq Dwikurnia
 // Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas titik
 
 class MTitik{
