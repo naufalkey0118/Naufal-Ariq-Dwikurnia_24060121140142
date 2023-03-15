@@ -1,5 +1,5 @@
 // MOperasiTitik.java 01/03/22
-// Penulis : Rizky Akhmad Fahreza
+// Penulis : Naufal Ariq Dwikurnia 
 // Deskripsi : Kelas yang berisi program utama yang memanfaatkan kelas Operasi Titik
 
 
